@@ -1,0 +1,41 @@
+# IDE and OS files
+*.iml
+.gradle/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local Android SDK and machine-specific configuration
+local.properties
+
+# Build outputs
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# Private release signing material
+signing/
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+keystore.properties
+
+# Local secrets and environment files
+.env
+.env.*
+*.secret
+*.secrets
+
+# Device and framework diagnostics may contain package or user information
+testlog/
+*.log
+
+# Local working notes
+提示词.txt

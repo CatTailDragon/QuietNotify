@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">通知静默窗口</string>
+    <string name="module_description">首次通知正常提醒，设定时间内同一应用的后续通知静音。</string>
+</resources>
