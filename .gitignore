@@ -36,6 +36,3 @@ keystore.properties
 # Device and framework diagnostics may contain package or user information
 testlog/
 *.log
-
-# Local working notes
-提示词.txt
