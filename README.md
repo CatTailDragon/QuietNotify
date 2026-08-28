@@ -1,6 +1,6 @@
 # QuietNotify
 
-QuietNotify（通知静默窗口）是一个基于 LSPosed Modern API 102 的 Android 模块，用于减少同一应用在短时间内重复产生的通知打扰。
+QuietNotify（通知静默窗口）是一个基于 LSPosed Modern API 102 的 Android 模块，用于减少同一应用在短时间内重复产生的通知打扰。目前仅适配HyperOS3，其他未测试。
 
 为应用设置固定时间窗口后，模块可以分别限制重复的顶部通知，以及通知声音和振动。通知仍会正常保留在通知中心。
 
